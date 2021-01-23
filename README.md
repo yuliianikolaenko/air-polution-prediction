@@ -11,7 +11,7 @@ Project tasks:
 
 1. Predict CO2 level in a selected station from time of day, past values, temperature and
 humidity.
-2. Predict NO/NO2/PM10 levels (+PM25 for Auber) in a selected station from past values,
+2. Predict NO/NO2/PM10 levels in a selected station from past values,
 temperature and humidity. Does it help to also consider current CO2 level?
 3. Compare models for each stations.
 4. Can current levels in two stations help predict levels in third station?

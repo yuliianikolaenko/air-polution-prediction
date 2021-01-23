@@ -3,7 +3,7 @@ Project discription: part of the AI course project dedicated to build a model fo
 
 Dataset sourse: https://dataratp.opendatasoft.com/explore/?sort=modified
 
-Goal of the research: to .
+Goal of the research: to create the model for the air pollution prediction.
 
 Team: Yuliia Nikolaenko, Lara-Anna Wagner, Mihaela Grigore.
 
